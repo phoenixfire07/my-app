@@ -1,0 +1,39 @@
+.sticky{
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+}
+
+.headings{
+  font-size: 4rem;
+  letter-spacing: 2px;
+}
+
+.about-wrapper{
+  margin-top: 1rem;
+}
+
+.about-left{
+  background-color: $green;
+}
+
+.about-wrapper{
+  width: 100vw;
+}
+
+.about-right{
+  height: 100vh;
+}
+
+.about-section{
+  max-width: 20rem;
+}
+
+.about-blurb{
+  font-size: 1rem;
+  font-family: $standard;
+  font-weight: 100;
+  letter-spacing: 2px;
+  line-height: 1.75rem;
+}

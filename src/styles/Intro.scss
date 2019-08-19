@@ -1,0 +1,98 @@
+$headings : Didot, "Times New Roman", Times, serif;
+$standard: Noto Sans, sans-serif;
+$green:rgb(179, 206, 178);
+$tan: rgb(235, 229, 221);
+
+
+body {
+  font: 1em sans-serif;
+  text-align: center;
+  margin: 0rem;
+}
+
+.stage {
+  display: flex;
+  height: 3rem;
+  width: 100%;
+  margin-top: -4rem;
+}
+
+.down-arrow-bounce {
+  align-self: flex-end;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  margin: 0 auto 0 auto;
+  transform-origin: bottom;
+  font-size: 3rem !important;
+  color:rgb(179, 206, 178);
+}
+
+.bounce-animation {
+  animation-name: bounce-1;
+  animation-timing-function: ease;
+}
+
+@keyframes bounce-1 {
+  0%   { transform: translateY(0); }
+  50%  { transform: translateY(-2rem); }
+  100% { transform: translateY(0); }
+}
+
+.light{
+  color:white;
+}
+
+.phoebe-home-image{
+    width: 20rem;
+    padding-top: 20rem;
+    background-image: url('./images/phoebe.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 100%;
+}
+  
+.row{
+    margin: 0rem;
+}
+
+.app-intro-container{
+  height:100vh;
+  background-color: rgb(235, 229, 221);
+  overflow: hidden;
+  margin-top:-7rem;
+}
+  
+.home-name-role-container{
+  height: 8rem;
+}
+  
+.name-heading{
+  font-size: 4rem;
+  letter-spacing: 2px;
+}
+  
+.role-heading{
+  font-size: 1.5rem;
+  letter-spacing: 2px;
+}
+  
+.Typist{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+  
+.Cursor--blinking{
+  display: none;
+}
+
+.app-selected-option-container {
+  align-items: center;
+  margin-top: 2rem;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: $headings;
+  letter-spacing: 3px !important;
+}

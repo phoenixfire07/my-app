@@ -1,0 +1,56 @@
+@import './styles/Intro.scss';
+@import './styles/About.scss';
+@import './styles/Experience.scss';
+@import './styles/Skillset.scss';
+@import './styles/Navigation.scss';
+
+
+@media only screen and (max-width: 768px) {
+  .app-option {
+    height: 6.5rem;
+    width: 6.5rem;
+  }
+
+  .about-right{
+    height: 50vh;
+  }
+
+  .skillset-section{
+    height: 50vh;
+  }
+
+  .experience-section-title{
+    height: 4rem;
+    font-size: 2.5rem;
+  }
+  
+  .skill-title{
+    height: 4rem;
+    font-size: 2.5rem;
+  }
+
+  .name-heading {
+    font-size: 2.5rem;
+  }
+
+  .role-heading{
+    font-size: 1.25rem;
+  }
+
+  .about-container{
+    flex-direction: column;
+
+    &.experience{
+      flex-direction: column-reverse;
+    }
+  }
+
+  .sticky{
+    position: relative;
+    height: 50vh !important;
+  }
+
+  .headings{
+    font-size: 2.5rem;
+  }
+}

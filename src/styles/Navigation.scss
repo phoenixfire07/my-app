@@ -1,0 +1,29 @@
+.navigation-bar {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 2rem;
+  height: 4rem;
+  width: 4rem;
+  border-radius: 100%;
+  background-color: $tan;
+  left: 2rem;
+  margin-right: auto;
+  z-index: 5;
+  cursor: pointer;
+}
+
+.burger-menu {
+  font-size: 2.5rem !important;
+  color: $green;
+}
+
+.menu-option{
+  cursor: pointer;
+  transition: transform .5s;
+  
+  &:hover{
+    color: $green;
+      transform: scale(1.2);
+  }
+}
+
