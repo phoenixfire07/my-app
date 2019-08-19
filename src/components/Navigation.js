@@ -14,7 +14,6 @@ export default function Navigation() {
     if (event.type === 'keydown' && (event.key === 'Tab' || event.key === 'Shift')) {
       return;
     }
-
     setState({ ...state, [side]: open });
   };
 
@@ -25,7 +24,7 @@ export default function Navigation() {
         <MenuRounded className="burger-menu"></MenuRounded>
       </div>
       <Drawer open={state.left} onClose={toggleDrawer('left', false)}>
-      <Close className="burger-menu ml-auto pr-1 pt-1" onClick={toggleDrawer('left', true)}></Close>
+      <Close className="burger-menu ml-auto pr-1 pt-1" onClick={toggleDrawer('left', false)}></Close>
         <div className="d-flex h-100 align-items-center justify-content-center flex-column p-5">
           <h3 className="pt-4 menu-option" onClick={() => document.getElementById("about-section").scrollIntoView()}>About</h3>
           <h3 className="pt-4 menu-option" onClick={() => document.getElementById("experience-section").scrollIntoView()}>Experience</h3>
