@@ -74,7 +74,7 @@ export default function Skillset() {
                         </div>
                         <div className="w-100 skillset-section">
                             <ScrollAnimation animateIn='fadeInDown' animateOut='fadeOutDown'>       
-                                <div className="skill-title d-flex justify-content-start pl-4 light">Other Technologies</div>  
+                                <div className="skill-title d-flex justify-content-start pl-4 light">Tooling</div>  
                             </ScrollAnimation>
                             <div className="d-flex justify-content-center align-items-center flex-column h-100">
                                 {otherSkillsData.map((oSkill) =>

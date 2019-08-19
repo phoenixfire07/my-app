@@ -18,14 +18,14 @@ export default function Experience() {
         </ScrollAnimation>
             <div className="experience-list d-flex justify-content-center">
                 <div className="row">
-                    <div className="col-md-3 experience-column"></div>
-                    <div className="col-md-6 pl-5">
+                    <div className="col-md-2 experience-column"></div>
+                    <div className="col-md-8 pl-5">
                     {experienceData.map((experience) => 
                     <ScrollAnimation animateIn='fadeIn' animateOut='fadeOut'>       
                         <ExpansionPanel expanded>
                             <ExpansionPanelSummary>
                                 <div className="experience-step mr-2"></div>
-                                <h6 className="experience-title">{experience.name} | {experience.location_city}</h6>
+                                <h6 className="experience-title">{experience.name}</h6>
                             </ExpansionPanelSummary>
                             <ExpansionPanelDetails>
                                 <Typography>
@@ -35,6 +35,12 @@ export default function Experience() {
                                     {experience.role_name && 
                                     <div>
                                         <span className="experience-section-heading">Role: </span><span>{experience.role_name}</span>
+                                        <br></br>
+                                    </div>
+                                    }
+                                    {experience.location_city && 
+                                    <div>
+                                        <span className="experience-section-heading">Location: </span><span>{experience.location_city}</span>
                                         <br></br>
                                     </div>
                                     }

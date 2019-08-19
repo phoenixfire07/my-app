@@ -3,8 +3,8 @@
 }
 
 .experience-step{
-  height: 1rem;
-  width:1rem;
+  height: 16px;
+  width:16px;
   background-color: rgb(179, 206, 178);
   border-radius: 100%;
   margin-left: -.4rem;
@@ -26,7 +26,7 @@
 }
 
 .experience-section-heading{
-  font-size: 1.25rem !important;
+  font-size: 1.25rem;
   color: $green;
   font-family: $headings;
 }

@@ -12,11 +12,11 @@
   }
 
   .about-right{
-    height: 50vh;
+    height: 70vh;
   }
 
   .skillset-section{
-    height: 50vh;
+    height: 70vh;
   }
 
   .experience-section-title{
@@ -47,10 +47,27 @@
 
   .sticky{
     position: relative;
-    height: 50vh !important;
+    height: 70vh !important;
   }
 
   .headings{
     font-size: 2.5rem;
+  }
+
+  .MuiTypography-body1{
+    font-size: .75rem !important;
+  }
+
+  .experience-section-heading{
+    font-size: 1rem;
+  }
+
+  .experience-title{
+    font-size: 1rem;
+    margin-top: -.8rem;
+  }
+
+  .contact-container {
+    height: 30rem;
   }
 }
