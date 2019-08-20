@@ -26,10 +26,10 @@ export default function Navigation() {
       <Drawer open={state.left} onClose={toggleDrawer('left', false)}>
       <Close className="burger-menu ml-auto pr-1 pt-1" onClick={toggleDrawer('left', false)}></Close>
         <div className="d-flex h-100 align-items-center justify-content-center flex-column p-5">
-          <h3 className="pt-4 menu-option" onClick={() => document.getElementById("about-section").scrollIntoView()}>About</h3>
-          <h3 className="pt-4 menu-option" onClick={() => document.getElementById("experience-section").scrollIntoView()}>Experience</h3>
-          <h3 className="pt-4 menu-option" onClick={() => document.getElementById("skillset-section").scrollIntoView()}>Skillset</h3>
-          <h3 className="pt-4 menu-option" onClick={() => document.getElementById("contact-section").scrollIntoView()}>Contact</h3>
+          <h3 className="pt-4 menu-option" onClick={() => { toggleDrawer('left', false); document.getElementById("about-section").scrollIntoView()}}>About</h3>
+          <h3 className="pt-4 menu-option" onClick={() => { toggleDrawer('left', false); document.getElementById("experience-section").scrollIntoView()}}>Experience</h3>
+          <h3 className="pt-4 menu-option" onClick={() => { toggleDrawer('left', false); document.getElementById("skillset-section").scrollIntoView()}}>Skillset</h3>
+          <h3 className="pt-4 menu-option" onClick={() => { toggleDrawer('left', false); document.getElementById("contact-section").scrollIntoView()}}>Contact</h3>
        </div>
       </Drawer>
     </Fragment>
