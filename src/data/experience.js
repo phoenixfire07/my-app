@@ -37,7 +37,7 @@ export const experienceData = [
     "years":"Sep 2016 - Sep 2017",
     "location_city":"UCD | Dublin, Ireland",
     "role_name":"Physical Chemistry Research Intern",
-    "responsibilities":"Designed and carried out physical chemistry research analysing and quantifying conjugated polymers flowing through a microfluidic channel by fluorecence.",
+    "responsibilities":"Designed and carried out physical chemistry research analysing and quantifying conjugated polymers flowing through a microfluidic channel by fluorescence.",
     "name":"Chemistry Internship",
   },
   {
@@ -45,7 +45,7 @@ export const experienceData = [
     "about":null,
     "years":"Sep 2013 - Sep 2017",
     "location_city":"UCD | Dublin, Ireland",
-    "responsibilities":"Graduated with first class honours (3.89 GPA) from University College Dublin (UCD) with a bachelor's degree in chemistry, specialising in physical analyitical chemistry.",
+    "responsibilities":"Graduated with first class honours (3.89 GPA) from University College Dublin (UCD) with a bachelor's degree in chemistry, specialising in physical analytical chemistry.",
     "name":"BSc (Hons) Chemistry",
     "thesis_name": "Counting of conjugated polymer nanoparticles in a microfluidic channel by fluorescence.",
     "thesis_link":"https://www.slideshare.net/slideshow/embed_code/key/MJb2KjlNrQ1v1a"
