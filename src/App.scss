@@ -11,6 +11,10 @@
     width: 6.5rem;
   }
 
+  .app-intro-container {
+    min-height: 35rem;
+  }
+
   .about-right{
     height: 28rem;
   }
@@ -69,5 +73,9 @@
 
   .contact-container {
     height: 25rem;
+  }
+
+  .navigation-bar {
+    left: 1rem;
   }
 }
