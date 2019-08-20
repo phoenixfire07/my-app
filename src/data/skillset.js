@@ -90,4 +90,9 @@ export const otherSkillsData = [
     "filled": [0,1],
     "outlined": [2,3,4,5,6,7,8,9]
   },
+  {
+    "name":"Google Analytics",
+    "filled": [0,1,2,3,4],
+    "outlined": [5,6,7,8,9]
+  },
 ];
