@@ -1,7 +1,7 @@
 export const aboutData = [
   {
     "title":"Hi, I'm Phoebe",
-    "blurb":"I am an American who is currently based in Dublin, Ireland. I am a chemist turned software engineer and I am currently working as a web developer at Deloitte Digital Ireland."
+    "blurb":"I am a chemist turned software engineer and I am currently working as a remote Software Engineer at Pluralight."
   },
   {
     "title":"Professional Interests",

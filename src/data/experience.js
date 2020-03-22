@@ -2,7 +2,16 @@ export const experienceData = [
   {
     "type":"work",
     "about":null,
-    "years":"Since September 2018 (Currently held position)",
+    "years":"Since November 2019 (Currently held position)",
+    "location_city":"Remote",
+    "role_name":"Software Engineer",
+    "responsibilities":"Developing gamification and motivation features for learners, working largely in Node and React.",
+    "name":"Pluralsight",
+  },
+  {
+    "type":"work",
+    "about":null,
+    "years":"Sep 2018 - Nov 2019",
     "location_city":"Dublin, Ireland",
     "role_name":"Full Stack Software Developer",
     "responsibilities":"Developed frontend and backend web applications for clients ranging from global tech firms, to large European telecoms, working mainly but not exclusively with ReactJS, Node.js, and Java.",

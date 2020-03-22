@@ -53,6 +53,11 @@ export const backendSkillsData = [
     "filled": [0,1,2,3,4,5,6,7],
     "outlined": [8,9]
   },
+  {
+    "name":"Postgres",
+    "filled": [0,1,2,3,4,5,6],
+    "outlined": [7,8,9]
+  },
   
 ];
 
@@ -69,8 +74,8 @@ export const dataSkillsData = [
   },
   {
     "name":"Python",
-    "filled": [0,1,2,3],
-    "outlined": [4,5,6,7,8,9]
+    "filled": [0,1,2],
+    "outlined": [3,4,5,6,7,8,9]
   },
 ];
 
