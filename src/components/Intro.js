@@ -8,7 +8,7 @@ export default function Intro() {
     <Fragment>
         <div className="app-intro-container d-flex justify-content-center flex-column align-items-center w-100">
             <div className="d-flex justify-content-center flex-column align-items-center ">
-                <img className="phoebe-home-image" alt="phoebe"></img>
+                <div className="phoebe-home-image"></div>
                 <Typist className="home-name-role-container" avgTypingDelay={100}>
                     <Typist.Delay ms={900} />
                     <h1 className="name-heading">Phoebe Staab</h1>
