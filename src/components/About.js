@@ -1,5 +1,4 @@
 import React, {Fragment} from 'react';
-import Slide from '@material-ui/core/Slide';
 import ScrollAnimation from 'react-animate-on-scroll';
 import { aboutData } from '../data/about';
 

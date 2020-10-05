@@ -46,13 +46,13 @@ export default function Experience() {
                                     }
                                     {experience.thesis_name && 
                                     <div>
-                                        <span className="experience-section-heading">Thesis: </span><a className="experience-link"  target="_blank" href={experience.thesis_link}>{experience.thesis_name} &#x25F3;</a>
+                                        <span className="experience-section-heading">Thesis: </span><a className="experience-link" rel="noopener noreferrer" target="_blank" href={experience.thesis_link}>{experience.thesis_name} &#x25F3;</a>
                                         <br></br>
                                     </div>
                                     }
                                     {experience.link && 
                                     <div>
-                                        <span className="experience-section-heading">Application: </span><a className="experience-link" target="_blank" href={experience.link}>{experience.link_name} &#x25F3;</a>
+                                        <span className="experience-section-heading">Application: </span><a className="experience-link" rel="noopener noreferrer" target="_blank" href={experience.link}>{experience.link_name} &#x25F3;</a>
                                         <br></br>
                                     </div>
                                     }

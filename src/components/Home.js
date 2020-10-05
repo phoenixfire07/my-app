@@ -1,4 +1,4 @@
-import React, {Fragment} from 'react';
+import React from 'react';
 import About from './About';
 import Experience from './Experience';
 import Skillset from './Skillset';
