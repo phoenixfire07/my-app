@@ -13,7 +13,7 @@ export const experienceData = [
     "type":"work",
     "about":null,
     "years":"Since November 2019 (Currently held position)",
-    "location_city":"Remote, USA (Based in Seattle)",
+    "location_city":"Remote, USA",
     "role_name":"Software Engineer",
     "responsibilities":"Developing gamification and motivation features for learners, working largely in Node and React.",
     "name":"Pluralsight",
