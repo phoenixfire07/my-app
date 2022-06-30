@@ -13,7 +13,7 @@ export default function Intro() {
                     <Typist.Delay ms={900} />
                     <h1 className="name-heading">Phoebe Staab</h1>
                     <Typist.Delay ms={500} />
-                    <h6 className="role-heading">Full Stack Web Developer</h6>   
+                    <h6 className="role-heading">PhD Researcher/Web Developer</h6>   
                 </Typist>
             </div>
         </div>
