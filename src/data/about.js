@@ -5,10 +5,10 @@ export const aboutData = [
   },
   {
     "title":"Professional Interests",
-    "blurb":"What really excites me is solving complex problems, whether that is designing a data model to support a website, writing some nifty code to make a creative UI design come to life, or tinkering with the features of a dataset to uncover an interesting phenomenon."
+    "blurb":"Broadly, I am interested in developing technology which promotes wellbeing. And while this is easy to claim, it is challenging to practice. I believe that as technologists (and people), we are responsible for informing ourselves such that we can understand, respect and respond to the unique needs of individuals and develop technology only if it can truly support those needs."
   },
   {
     "title":"Personal Interests",
-    "blurb":"I am a fermentation nerd. I actually do really like long walks (or runs) on the beach. I am into bikram yoga. I am a huge fan of Startrek TNG (but also dabble in DSN and Voyager) and Portlandia. Oh and I love a good cat video."
+    "blurb":"I am a fermentation nerd and I actually do really like long walks (or runs) on the beach. I am into yin yoga, reading and quiet time. I am a huge fan of Startrek and I love a good cat video."
   },
 ];
