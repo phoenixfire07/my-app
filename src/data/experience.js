@@ -5,7 +5,7 @@ export const experienceData = [
     "years":"Jun 2022 - Jun 2025 (Expected)",
     "location_city":"Kings College London | London, UK",
     "role_name": null,
-    "responsibilities":"The primary focus of my research is developing digital interventions which focus on developing metacognitive awareness of interoception.",
+    "responsibilities":"The primary focus of my research is developing digital interventions which focus on promoting metacognitive awareness of interoception.",
     "name":"PhD Human Computer Interaction",
 
   },
