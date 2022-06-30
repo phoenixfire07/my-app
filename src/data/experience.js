@@ -12,10 +12,10 @@ export const experienceData = [
   {
     "type":"work",
     "about":null,
-    "years":"Since November 2019 (Currently held position)",
+    "years":"Part-time since Jun 2022, Full-time 2019-2022",
     "location_city":"Remote, USA",
     "role_name":"Software Engineer",
-    "responsibilities":"Developing gamification and motivation features for learners, working largely in Node and React.",
+    "responsibilities":"Fullstack development of motivation/gamification and adaptive assessment features.",
     "name":"Pluralsight",
   },
   {
