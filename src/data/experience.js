@@ -2,11 +2,11 @@ export const experienceData = [
   {
     "type":"school",
     "about":null,
-    "years":"Jan 2022 - Jan 2022 (Currently enrolled)",
+    "years":"Jun 2022 - Jun 2025 (Expected)",
     "location_city":"Kings College London | London, UK",
     "role_name": null,
-    "responsibilities":"The degree covers a comprehensive and integrated exploration of our current understanding of the psychological and neuroscientific basis of mental health.",
-    "name":"MSc Psychology & Neuroscience of Mental Health",
+    "responsibilities":"The primary focus of my research is developing digital interventions which focus on developing metacognitive awareness of interoception.",
+    "name":"PhD Human Computer Interaction",
 
   },
   {
