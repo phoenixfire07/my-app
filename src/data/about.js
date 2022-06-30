@@ -1,7 +1,7 @@
 export const aboutData = [
   {
     "title":"Hi, I'm Phoebe",
-    "blurb":"I am a chemist turned software engineer and I am currently working as a remote Software Engineer at Pluralight."
+    "blurb":"I am a software engineer and Pluralsight and PhD candidate at King's College London."
   },
   {
     "title":"Professional Interests",
@@ -9,6 +9,6 @@ export const aboutData = [
   },
   {
     "title":"Personal Interests",
-    "blurb":"I am a fermentation nerd and I actually do really like long walks (or runs) on the beach. I am into yin yoga, reading and quiet time. I am a huge fan of Startrek and I love a good cat video."
+    "blurb":"I am a fermentation nerd and I actually do really like long walks (or runs) on the beach. I am into yin yoga, reading, pottery and quiet time. I am a huge fan of Startrek and I love a good cat video."
   },
 ];
