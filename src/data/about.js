@@ -1,7 +1,7 @@
 export const aboutData = [
   {
     "title":"Hi, I'm Phoebe",
-    "blurb":"I am a software engineer and Pluralsight and PhD candidate at King's College London."
+    "blurb":"I am a software engineer developing education technology at Pluralsight and PhD candidate at King's College London. My research is focused on designing and developing digital interventions which can support the development of healthy interoception (awareness of body)."
   },
   {
     "title":"Professional Interests",
