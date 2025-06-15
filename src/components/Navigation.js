@@ -25,7 +25,6 @@ export default function Navigation() {
         <div className="d-flex h-100 align-items-center justify-content-center flex-column p-5">
           <h3 className="pt-4 menu-option" onClick={() => { toggleDrawer('left', false); document.getElementById("about-section").scrollIntoView(); }}>About</h3>
           <h3 className="pt-4 menu-option" onClick={() => { toggleDrawer('left', false); document.getElementById("experience-section").scrollIntoView();}}>Experience</h3>
-          <h3 className="pt-4 menu-option" onClick={() => { toggleDrawer('left', false); document.getElementById("skillset-section").scrollIntoView();}}>Skillset</h3>
           <h3 className="pt-4 menu-option" onClick={() => { toggleDrawer('left', false); document.getElementById("contact-section").scrollIntoView();}}>Contact</h3>
        </div>
       </Drawer>
