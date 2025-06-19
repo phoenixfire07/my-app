@@ -9,6 +9,6 @@ export const aboutData = [
   },
   {
     "title":"Personal Interests",
-    "blurb":"I am a fermentation nerd and I actually do really like long walks (or runs) on the beach. I am into yin yoga, meditation, reading, making ceramics and quiet time. I am a huge fan of Startrek and I love a good cat video."
+    "blurb":"I am a fermentation nerd and I actually do really like long walks (or runs) on the beach. I love hiking and foraging for mushrooms. I am into yin yoga, meditation, reading, making ceramics and quiet time. I am a huge fan of Startrek and I love a good cat video."
   },
 ];
