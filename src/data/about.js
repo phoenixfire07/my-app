@@ -1,7 +1,7 @@
 export const aboutData = [
   {
     "title":"Hi, I'm Phoebe",
-    "blurb":"I am a product-oriented software engineer and tech lead with a PhD in Human-Computer Interaction (pending defense), currently pivoting to product management. With experience building and shipping mental health and ed-tech products, I am passionate about creating technology that improves lives and contributes to a better world."
+    "blurb":"I am a product-oriented software engineer and tech lead with a PhD in Human-Computer Interaction (pending defense), currently pivoting to a more product oriented role. With experience building and shipping mental health and ed-tech products, I am passionate about creating technology that improves lives and contributes to a better world."
   },
   {
     "title":"Professional Interests",
