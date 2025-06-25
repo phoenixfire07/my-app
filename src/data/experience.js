@@ -28,6 +28,8 @@ export const experienceData = [
     "role_name":"Full Stack Software Developer",
     "responsibilities":"Developed frontend and backend web applications for clients ranging from global tech firms, to large European telecoms, working mainly but not exclusively with ReactJS, Node.js, and Java.",
     "name":"Deloitte Digital",
+    "link":"https://apps.apple.com/us/app/somaware/id6511209600",
+    "link_name": "SomAware"
     
   },
   {
