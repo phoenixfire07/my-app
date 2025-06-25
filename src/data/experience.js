@@ -10,8 +10,11 @@ export const experienceData = [
     "thesis_name": "Design and Development of SomAware: a Digital Ecological Momentary Interoceptive Awareness Intervention",
     "thesis_link":"https://orcid.org/0009-0006-0759-7163",
     "link":"https://apps.apple.com/us/app/somaware/id6511209600",
-    "link_name": "SomAware"
-
+    "link_name": "SomAware",
+    "pub_1": "“Can you be with that feeling?”: Extending Design Strategies for Interoceptive Awareness for the Context of Mental Health",
+    "pub_1_link": "https://dl.acm.org/doi/full/10.1145/3613904.3643054",
+    "pub_2": "Identifying Opportunities and Envisioning Ecological Momentary Interoceptive Awareness Interventions With Young Women",
+    "pub_2_link":"https://dl.acm.org/doi/full/10.1145/3706598.3713859"
   },
   {
     "type":"work",
