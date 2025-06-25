@@ -56,6 +56,18 @@ export default function Experience() {
                                         <br></br>
                                     </div>
                                     }
+                                    {experience.pub_1 && 
+                                    <div>
+                                        <span className="experience-section-heading">Publication: </span><a className="experience-link" rel="noopener noreferrer" target="_blank" href={experience.pub_1_link}>{experience.pub_1} &#x25F3;</a>
+                                        <br></br>
+                                    </div>
+                                    }
+                                    {experience.pub_1 && 
+                                    <div>
+                                        <span className="experience-section-heading">Publication: </span><a className="experience-link" rel="noopener noreferrer" target="_blank" href={experience.pub_2_link}>{experience.pub_2} &#x25F3;</a>
+                                        <br></br>
+                                    </div>
+                                    }
                                 </div>
                                 <div className="mb-3">
                                     {experience.responsibilities} 
