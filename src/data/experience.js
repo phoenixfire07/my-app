@@ -8,7 +8,9 @@ export const experienceData = [
     "responsibilities":"The primary focus of my research is developing a digital intervention for promoting interoceptive awareness (mindful body awareness).",
     "name":"PhD Human Computer Interaction",
     "thesis_name": "Design and Development of SomAware: a Digital Ecological Momentary Interoceptive Awareness Intervention",
-    "thesis_link":"https://orcid.org/0009-0006-0759-7163"
+    "thesis_link":"https://orcid.org/0009-0006-0759-7163",
+    "link":"https://apps.apple.com/us/app/somaware/id6511209600",
+    "link_name": "SomAware"
 
   },
   {
@@ -27,10 +29,7 @@ export const experienceData = [
     "location_city":"Dublin, Ireland",
     "role_name":"Full Stack Software Developer",
     "responsibilities":"Developed frontend and backend web applications for clients ranging from global tech firms, to large European telecoms, working mainly but not exclusively with ReactJS, Node.js, and Java.",
-    "name":"Deloitte Digital",
-    "link":"https://apps.apple.com/us/app/somaware/id6511209600",
-    "link_name": "SomAware"
-    
+    "name":"Deloitte Digital",  
   },
   {
     "type":"work",
