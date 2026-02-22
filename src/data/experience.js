@@ -1,5 +1,14 @@
 export const experienceData = [
   {
+    "type":"work",
+    "about":null,
+    "years":"Aug 2025 - Present",
+    "location_city":"(Remote) Seattle, WA",
+    "role_name":"Product Manager",
+    "responsibilities":"I am the Patient Experience Product Manager at Solace, where we connect patients with expert advocates. I lead the strategy and execution for the post-conversion patient journey and patient portal experience.",
+    "name":"Solace",
+  },
+  {
     "type":"school",
     "about":null,
     "years":"2022 - 2025 (Thesis submitted; Defense TBD Aug/Sep 2025)",
@@ -19,9 +28,9 @@ export const experienceData = [
   {
     "type":"work",
     "about":null,
-    "years":"Part-time since Jun 2022, Full-time 2019-2022",
-    "location_city":"Remote, USA and UK",
-    "role_name":"Senior Software Engineer and Tech Lead",
+    "years":"Oct 2018 - Apr 2025",
+    "location_city":"(Remote) USA and UK",
+    "role_name":"Tech Lead & Senior Software Engineer",
     "responsibilities":"Fullstack development of motivation/gamification and adaptive assessment features.",
     "name":"Pluralsight",
   },
